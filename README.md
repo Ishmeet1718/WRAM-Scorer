@@ -25,7 +25,7 @@ The WRAM Scorer helps lab members:
 
 ### 🔹 Option 1: Use the App Online
 No install needed — run the app here:  
-👉 [WRAM Scorer on Streamlit Cloud](https://wram-scorer.streamlit.app) *(insert your real link here once deployed)*
+👉 [WRAM Scorer on Streamlit Cloud](https://wram-scorer.streamlit.app/)
 
 ---
 
