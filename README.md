@@ -1,5 +1,8 @@
 # 🧠 WRAM Scorer – Digitized Behavioral Task Scoring Tool
 
+![WRAM Scorer Screenshot](wram_scorer_preview.png)
+
+
 This is a Streamlit web app developed for digitizing the scoring process of the **Working and Reference Memory (WRAM)** task used in behavioral neuroscience research.
 
 Built by: **Ishmeet Kaur**  
