@@ -2,7 +2,14 @@ import streamlit as st
 import pandas as pd
 from datetime import date
 
+st.set_page_config(page_title="WRAM Scorer", initial_sidebar_state="expanded")
+
+
 st.title("🐭 WRAM Scorer Tool — Multi-Animal Tracker")
+
+st.info("👈 Use the sidebar to enter tester name, animal ID, and select baited arms.")
+
+
 
 # Sidebar input
 st.sidebar.header("Session Info")
